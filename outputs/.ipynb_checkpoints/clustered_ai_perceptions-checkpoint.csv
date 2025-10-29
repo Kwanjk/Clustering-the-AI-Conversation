@@ -1,4 +1,0 @@
-post_id,text,upvotes,clean_text,sentiment_score,ai_future_impact,ai_understanding_type,mental_health_keywords,cluster_id
-1,"AI is changing everything, this is revolutionary!",120,ai is changing everything this is revolutionary,0.0,Neutral,Mystery,False,2
-2,ChatGPT scares me... it's like Ultron becoming real.,45,chatgpt scares me its like ultron becoming real,0.0258,Negative,Tool,False,1
-3,"AI is useful but not magic, people exaggerate its power.",66,ai is useful but not magic people exaggerate its power,0.3851,Neutral,Mystery,False,0
