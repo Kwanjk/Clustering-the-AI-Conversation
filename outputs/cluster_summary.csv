@@ -1,0 +1,4 @@
+cluster_id,sentiment_score,ai_future_impact,ai_understanding_type,mental_health_keywords
+0,0.3851,Neutral,Mystery,0
+1,0.0258,Negative,Tool,0
+2,0.0,Neutral,Mystery,0
