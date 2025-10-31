@@ -102,7 +102,7 @@ Humans use information — like news stories — to negotiate identity and emoti
 ## 🧑‍💻 Author
 **Joshua Kwan**  
 Information Science Major  
-Washington and Lee University  
+University of Maryland, College Park  
 
 > “Information doesn’t just describe adaptation — it *is* adaptation.”
 
@@ -110,13 +110,12 @@ Washington and Lee University
 
 ## 📎 Repository Structure
 
-├── ai_news_dataset_full_20251029.csv # Raw scraped data
-├── ai_news_clustered.csv # Clustered dataset
-├── ai_perception_clustering.ipynb # Analysis notebook
-├── visuals/ # Word clouds & plots
-├── LICENSE
-└── README.md
-
+- **ai_news_dataset_full_20251029.csv** — Raw scraped data  
+- **ai_news_clustered.csv** — Clustered dataset  
+- **ai_perception_clustering.ipynb** — Analysis notebook  
+- **visuals/** — Word clouds and clustering plots  
+- **LICENSE**  
+- **README.md**
 
 ---
 
